@@ -1,1 +1,1 @@
-command to display confused smiley
+Display file content
