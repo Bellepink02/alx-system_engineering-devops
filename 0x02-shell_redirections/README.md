@@ -1,1 +1,1 @@
-each script containing a command gives a desired output
+command to display confused smiley
