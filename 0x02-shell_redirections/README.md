@@ -1,1 +1,1 @@
-display lines and files with specifics
+duplicate the last line of a file
