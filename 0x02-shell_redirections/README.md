@@ -1,1 +1,1 @@
-duplicate the last line of a file
+A script to delete all regualar files with the .js extension in the current directory
