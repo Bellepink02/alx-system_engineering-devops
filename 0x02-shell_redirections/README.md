@@ -1,1 +1,1 @@
-A script to delete all regualar files with the .js extension in the current directory
+script to count the number of directories and sub-directory
