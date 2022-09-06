@@ -1,1 +1,1 @@
-display first lines
+display lines and files with specifics
