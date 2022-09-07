@@ -1,1 +1,1 @@
-a script that changes the working directory to the user’s home directory.
+Scripts contain commands for basic shell navigations,manipulating files and bash shortcuts
